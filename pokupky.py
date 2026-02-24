@@ -1,2 +1,3 @@
 pokupki = ["Вода", "Яйца", "Молоко", "Картошка", "Морковка"]
 pokupki.append("Пакет")
+print(pokupky)
